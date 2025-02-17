@@ -1,6 +1,6 @@
 function FavoritesPage(){
     return(
-        <div>Hi</div>
+        <div>Favorites Page</div>
     );
 }
 

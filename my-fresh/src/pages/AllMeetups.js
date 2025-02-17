@@ -1,7 +1,7 @@
 function AllMeetupsPage(){
     return(
         <div>
-            <h1>Coolio</h1>
+            <h1>All Meetups Page</h1>
         </div>
     );
 }

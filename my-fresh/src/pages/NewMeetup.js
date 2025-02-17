@@ -1,6 +1,6 @@
 function NewMeetupsPage(){
     return(
-        <div>Great</div>
+        <div>New Meetups</div>
     );
 }
 
